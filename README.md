@@ -7,8 +7,7 @@
 ### 对数计算(指数计算当然也有了, 这里不演示了)
 ### 请按照"底数L真数"的形式输入表达式, 例如下图是ln2的计算结果  
 ![https://github.com/Hienyriux/applet_MyCalc/blob/master/pictures/Screenshot_1594729744.png](https://github.com/Hienyriux/applet_MyCalc/blob/master/pictures/Screenshot_1594729744.png)
-![https://github.com/Hienyriux/applet_MyCalc/blob/master/pictures/Screenshot_1594729751.png](https://github.com/Hienyriux/applet_MyCalc/blob/master/pictures/Screenshot_1594729751.png)  
+![https://github.com/Hienyriux/applet_MyCalc/blob/master/pictures/Screenshot_1594729751.png](https://github.com/Hienyriux/applet_MyCalc/blob/master/pictures/Screenshot_1594729751.png)
 ### 括号改变计算顺序
-![https://github.com/Hienyriux/applet_MyCalc/blob/master/pictures/Screenshot_1594729784.png](https://github.com/Hienyriux/applet_MyCalc/blob/master/pictures/Screenshot_1594729784.png)  
-
-答案是18, 忘截图了😂
+![https://github.com/Hienyriux/applet_MyCalc/blob/master/pictures/Screenshot_1594729784.png](https://github.com/Hienyriux/applet_MyCalc/blob/master/pictures/Screenshot_1594729784.png)
+![https://github.com/Hienyriux/applet_MyCalc/blob/master/pictures/Screenshot_1594806429.png](https://github.com/Hienyriux/applet_MyCalc/blob/master/pictures/Screenshot_1594806429.png)
